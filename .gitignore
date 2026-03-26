@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.bin
+*.safetensors
+venv/
+.DS_Store
+data/
+models/
+checkpoints/
+results/
+wandb/
+*.zip
+*.tar.gz
